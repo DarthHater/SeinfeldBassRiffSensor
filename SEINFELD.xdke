@@ -1,0 +1,56 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1462055126000,
+        "modified": 1462055126000,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "README.md": {
+        "previousModTime": 1462048915000,
+        "modified": 1462048915000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "SEINFELD.xdk": {
+        "previousModTime": 1462046197000,
+        "modified": 1462046197000,
+        "seen": true,
+        "name": "SEINFELD.xdk"
+      },
+      "SEINFELD.xdke": {
+        "previousModTime": 1462056384000,
+        "modified": 1462056384000,
+        "seen": true,
+        "name": "SEINFELD.xdke"
+      },
+      "main.js": {
+        "previousModTime": 1462056357000,
+        "modified": 1462056357000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1462052777000,
+        "modified": 1462052777000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1462046197000,
+        "modified": 1462046197000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}

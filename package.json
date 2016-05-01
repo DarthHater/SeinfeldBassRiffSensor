@@ -1,0 +1,12 @@
+{
+  "name": "SeinfeldBassRiffMotionSensor",
+  "description": "Well, what does it sound like?",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+      "jsupm_biss0001":"latest"
+  }
+}
